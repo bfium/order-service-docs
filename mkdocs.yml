@@ -81,6 +81,7 @@ plugins:
       comments_path: "#__comments"
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/linkedin
       name: Barth Feudong
