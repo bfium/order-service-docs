@@ -10,10 +10,10 @@ links:
   - Blog index: blog/index.md
     
 authors:
-  - team
+  - bfium
 
 tags:
-  - new year
+  - IT
   - hogmanay
 ---
 

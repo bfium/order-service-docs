@@ -10,11 +10,12 @@ links:
   - Blog index: blog/index.md
 
 authors:
-  - team
+  - bfium
+
+slug: specifications
 
 tags:
-  - new year
-  - hogmanay
+  - IT
 ---
 
 # Using OpenAPI as specifications for the Order's API

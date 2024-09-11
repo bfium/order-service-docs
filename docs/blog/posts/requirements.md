@@ -10,11 +10,12 @@ links:
   - Blog index: blog/index.md
     
 authors:
-  - team
-  
+  - bfium
+
+slug: requirements  
+
 tags:
-  - new year
-  - hogmanay
+  - IT
 ---
 
 
@@ -52,3 +53,4 @@ Application clients and services need to have a communication protocol for inter
 
 ## Web Services
 Applications provide services for clients. One example of application services is Web services, which use the World Wide Web for application-to-application com- munication. From a software perspective, Web services are the application program- ming interfaces (APIs) that provide a standard means of communication among dif- ferent software applications on the World Wide Web. From a business application perspective, a Web service is business functionality provided by a company in the form of an explicit service over the Internet for other companies or programs to use. A Web service is provided by a service provider and may be composed of other ser- vices to form new services and applications. An example of a Web client invoking a Web service is given in Figure 16.5.
+

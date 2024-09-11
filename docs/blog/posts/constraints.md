@@ -10,11 +10,10 @@ links:
   - Blog index: blog/index.md
 
 authors:
-  - team
+  - bfium
 
 tags:
-  - new year
-  - hogmanay
+  - IT
 ---
 
 # Architectural constraints of REST applications

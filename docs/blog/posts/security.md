@@ -10,7 +10,7 @@ links:
   - Blog index: blog/index.md
 
 authors:
-  - team
+  - bfium
 ---
 
 # Securing the API

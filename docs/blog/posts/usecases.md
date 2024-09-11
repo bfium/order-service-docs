@@ -7,16 +7,17 @@ categories:
 #draft: true
 readtime: 5
 # pin: false
-links:
-  - Homepage: index.md
-  - Blog index: blog/index.md
+
+links: #  further reading section
+  - blog/index.md#specifications
+  - blog/index.md#requirements
 
 tags:
-  - new year
-  - hogmanay
+  - IT
+slug: use-case
 
 authors:
-  - team
+  - bfium
 ---
 
 # Structured resource URLs with HTTP methods
