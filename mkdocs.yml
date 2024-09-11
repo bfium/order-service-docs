@@ -18,6 +18,7 @@ theme:
     - navigation.top
     #- navigation.sections
     - toc.follow
+    - navigation.footer
     #- toc.integrate
 
   font:
