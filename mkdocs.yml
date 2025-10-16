@@ -55,7 +55,7 @@ plugins:
   - privacy
   - social: # lern more here: https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/
       cards_layout_options:
-        font_family: Time
+        font_family: Noto Sans SC
   - search
   #- search.suggest
   #- search.highlight

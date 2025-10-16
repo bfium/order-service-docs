@@ -39,3 +39,5 @@ we use the singleton URL /orders/{order_id} to perform actions on an order, such
 - POST /orders/{order_id}/pay to pay for an order. We use POST to create a payment.
 
 ![order_service_api-endpoints.png](..%2Fsite%2Fassets%2Fimages%2Forder_service_api-endpoints.png)
+
+https://github.com/sponsors/squidfunk?sp=bfium
